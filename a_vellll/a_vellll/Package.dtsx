@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="11/26/2019 11:10:51 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="1NEH0117"
+  DTS:CreatorName="TMOVILES\ecamejo"
+  DTS:DTSID="{8DC740B6-2A1B-4483-B605-8DD3B74174A0}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="13.0.2165.0"
+  DTS:LocaleID="11274"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{76613869-BD39-4CFC-8ABC-8B5564AEBA3C}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
